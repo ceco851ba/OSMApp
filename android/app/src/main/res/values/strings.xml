@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">OpenMap</string>
+    <string name="title_activity_main">OpenMap</string>
+    <string name="package_name">com.om.app</string>
+    <string name="custom_url_scheme">com.om.app</string>
+</resources>

@@ -1,0 +1,8 @@
+{
+  "name": "OSMApp",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular"
+}

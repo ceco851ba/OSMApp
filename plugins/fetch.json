@@ -1,0 +1,10 @@
+{
+  "cordova-plugin-nativegeocoder": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-nativegeocoder@^3.2.2"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}
